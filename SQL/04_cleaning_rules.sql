@@ -72,3 +72,9 @@ WHERE order_id ~ '^\d+$'
   AND (discount IS NULL OR discount = '' OR discount ~ '^\d+(\.\d+)?$')
   AND CAST(quantity AS INTEGER) > 0
   AND CAST(unit_price AS NUMERIC) > 0;
+
+-- Remove duplicate order_id, keeping the first occurrence
+DELETE FROM orders_clean a
+USING orders_clean b
+WHERE a.order_id = b.order_id
+  AND a.ctid > b.ctid;
