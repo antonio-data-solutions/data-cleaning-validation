@@ -49,7 +49,6 @@ This project demonstrates end-to-end data cleaning and validation using PostgreS
 - `SQL/04_cleaning_rules.sql`: applies cleaning transformations (includes deduplication).
 - `SQL/05_validation_checks.sql`: validation queries.
 - `SQL/06_before_after_summary.sql`: before/after summary.
-## Notes
 
 ## Author
 
