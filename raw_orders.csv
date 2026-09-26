@@ -1,0 +1,202 @@
+order_id,customer_name,email,order_date,product_name,category,quantity,unit_price,discount,city,state,payment_method,status
+1001,Ana Silva,ana.silva@email.com,2026-08-01,Wireless Mouse,Electronics,2,49.90,5.00,Recife,PE,Credit Card,Paid
+1002,Bruno Costa,bruno.costa@email.com,02/08/2026,USB Cable,Electronics,3,12.50,,Salvador,BA,Debit Card,Paid
+1003,Carla Mendes,,2026/8/3,Notebook Stand,Office Supplies,1,189.90,10.00,Fortaleza,CE,Credit Card,Paid
+1004,Diego Alves,diego.alves@email.com,2026-08-04,Mechanical Keyboard,Electronics,1,299.90,0.00,Belo Horizonte,MG,PIX,Paid
+1005,Elaine Rocha,elaine@email.com,2026-08-05,Desk Lamp,Home & Living,2,79.90,5.00,Porto Alegre,RS,Credit Card,Pending
+1006,Fernando Lima,fernando.lima@email.com,06/08/2026,Office Chair,Office Supplies,1,549.90,50.00,São Paulo,SP,Credit Card,Paid
+1007,Gabriela Nunes,gabi.nunes@email.com,2026/8/7,Yoga Mat,Sports,3,89.90,0.00,Rio de Janeiro,RJ,Debit Card,Paid
+1008,Hugo Martins,hugo.martins@email.com,2026-08-08,Bluetooth Speaker,Electronics,1,199.90,10.00,Curitiba,PR,PIX,Paid
+1009,Irene Souza,irene.souza@email.com,09/08/2026,Water Bottle,Sports,5,24.90,0.00,Brasília,DF,Credit Card,Paid
+1010,Jorge Pereira,jorge.pereira@email.com,2026-08-10,Monitor Arm,Office Supplies,1,159.90,15.00,Recife,PE,Debit Card,Paid
+1011,Karina Dias,karina.dias@email.com,2026/8/11,Webcam HD,Electronics,2,129.90,0.00,Salvador,BA,Credit Card,Paid
+1012,Leonardo Freitas,leo.freitas@email.com,2026-08-12,Desk Organizer,Office Supplies,4,34.90,2.00,Fortaleza,CE,PIX,Paid
+1013,Mariana Correia,mariana.correia@email.com,13/08/2026,Running Shoes,Sports,1,249.90,20.00,Belo Horizonte,MG,Credit Card,Paid
+1014,Nicolas Teixeira,nico.teixeira@email.com,2026-08-14,LED Strip,Home & Living,3,39.90,0.00,Porto Alegre,RS,Debit Card,Pending
+1015,Olivia Araújo,olivia.araujo@email.com,2026/8/15,Coffee Mug,Home & Living,6,19.90,0.00,São Paulo,SP,Credit Card,Paid
+1016,Pedro Henrique,pedro.henrique@email.com,2026-08-16,Wireless Headset,Electronics,1,219.90,15.00,Rio de Janeiro,RJ,PIX,Paid
+1017,Quintino Ramos,quintino.ramos@email.com,17/08/2026,Resistance Bands,Sports,2,49.90,5.00,Curitiba,PR,Credit Card,Paid
+1018,Rafaela Moura,rafaela.moura@email.com,2026-08-18,USB Hub,Electronics,3,29.90,0.00,Brasília,DF,Debit Card,Paid
+1019,Sérgio Cardoso,sergio.cardoso@email.com,2026/8/19,Desk Pad,Office Supplies,2,59.90,0.00,Recife,PE,Credit Card,Paid
+1020,Tatiane Azevedo,tatiane.azevedo@email.com,2026-08-20,Smartwatch,Electronics,1,399.90,30.00,Salvador,BA,PIX,Paid
+1021,Uriel Fernandes,uriel.fernandes@email.com,21/08/2026,Foam Roller,Sports,2,69.90,0.00,Fortaleza,CE,Credit Card,Paid
+1022,Vanessa Gomes,vanessa.gomes@email.com,2026-08-22,Cable Management,Office Supplies,5,14.90,0.00,Belo Horizonte,MG,Debit Card,Paid
+1023,William Borges,william.borges@email.com,23/08/2026,Wireless Charger,Electronics,2,59.90,5.00,Porto Alegre,RS,Credit Card,Paid
+1024,Ximena Castro,ximena.castro@email.com,2026/8/24,Adjustable Dumbbell,Sports,1,179.90,10.00,São Paulo,SP,PIX,Paid
+1025,Yasmin Duarte,yasmin.duarte@email.com,25/08/2026,Monitor Light,Office Supplies,1,139.90,0.00,Rio de Janeiro,RJ,Credit Card,Paid
+1026,Zeca Pereira,zeca.pereira@email.com,26/08/2026,Bluetooth Mouse,Electronics,3,39.90,0.00,Curitiba,PR,Debit Card,Paid
+1027,André Luiz,andre.luiz@email.com,27/08/2026,Standing Desk,Office Supplies,1,899.90,100.00,Brasília,DF,Credit Card,Paid
+1028,Bianca Melo,bianca.melo@email.com,28/08/2026,Jump Rope,Sports,4,29.90,0.00,Recife,PE,PIX,Paid
+1029,Caio Ribeiro,caio.ribeiro@email.com,29/08/2026,USB Fan,Home & Living,2,24.90,0.00,Salvador,BA,Credit Card,Pending
+1030,Daniela Cardoso,daniela.cardoso@email.com,30/08/2026,Laptop Sleeve,Electronics,2,49.90,5.00,Fortaleza,CE,Debit Card,Paid
+1001,Ana Silva,ana.silva@email.com,2026-08-01,Wireless Mouse,Electronics,2,49.90,5.00,Recife,PE,Credit Card,Paid
+1031,Eduardo Pinto,edu.pinto@email.com,01/09/2026,Wireless Keyboard,eletronicos,1,149.90,10.00,Belo Horizonte,MG,Credit Card,Paid
+1032,Fernanda Lopes,fernanda.lopes@email.com,2026-09-02,Office Chair,OFFICE SUPPLIES,1,549.90,50.00,Porto Alegre,RS,Debit Card,Paid
+1033,Gustavo Hyde,gustavo.hyde@email.com,03/09/2026,Water Bottle,SPORTS,5,24.90,0.00,São Paulo,SP,PIX,Paid
+1034,Helena Torres,helena.torres@email.com,2026/9/4,Desk Lamp,home & living,2,79.90,5.00,Rio de Janeiro,RJ,Credit Card,Paid
+1035,Igor Cardoso,igor.cardoso@email.com,05/09/2026,Webcam HD,ELETRO,1,129.90,0.00,Curitiba,PR,Debit Card,Paid
+1036,Juliana Freitas,juliana.freitas@email.com,2026-09-06,Monitor Arm,Office Supplies,1,159.90,15.00,Brasília,DF,Credit Card,Paid
+1037,Kevin Dias,kevin.dias@email.com,07/09/2026,Resistance Bands,Sports,2,49.90,5.00,Recife,PE,PIX,Paid
+1038,Larissa Moura,larissa.moura@email.com,2026/9/8,USB Hub,Electronics,3,29.90,0.00,Salvador,BA,Credit Card,Paid
+1039,Marcos Vinícius,marcos.vinicius@email.com,09/09/2026,Desk Pad,Office Supplies,2,59.90,0.00,Fortaleza,CE,Debit Card,Paid
+1040,Natalia Azevedo,natalia.azevedo@email.com,2026-09-10,Smartwatch,Electronics,1,399.90,30.00,Belo Horizonte,MG,Credit Card,Paid
+1041,Oscar Fernandes,oscar.fernandes@email.com,11/09/2026,Foam Roller,Sports,2,69.90,0.00,Porto Alegre,RS,PIX,Paid
+1042,Patrícia Gomes,patricia.gomes@email.com,12/09/2026,Cable Management,Office Supplies,5,14.90,0.00,São Paulo,SP,Credit Card,Paid
+1043,Quinto Borges,quinto.borges@email.com,13/09/2026,Wireless Charger,Electronics,2,59.90,5.00,Rio de Janeiro,RJ,Debit Card,Paid
+1044,Renata Castro,renata.castro@email.com,14/09/2026,Adjustable Dumbbell,Sports,1,179.90,10.00,Curitiba,PR,Credit Card,Paid
+1045,Sandro Duarte,sandro.duarte@email.com,15/09/2026,Monitor Light,Office Supplies,1,139.90,0.00,Brasília,DF,PIX,Paid
+1046,Teresa Pereira,teresa.pereira@email.com,16/09/2026,Bluetooth Mouse,Electronics,3,39.90,0.00,Recife,PE,Credit Card,Paid
+1047,Ubirajara Lima,ubirajara.lima@email.com,17/09/2026,Standing Desk,Office Supplies,1,899.90,100.00,Salvador,BA,Debit Card,Paid
+1048,Verônica Melo,veronica.melo@email.com,18/09/2026,Jump Rope,Sports,4,29.90,0.00,Fortaleza,CE,Credit Card,Paid
+1049,Wagner Ribeiro,wagner.ribeiro@email.com,19/09/2026,USB Fan,Home & Living,2,24.90,0.00,Belo Horizonte,MG,PIX,Paid
+1050,Ximena Cardoso,ximena.cardoso@email.com,20/09/2026,Laptop Sleeve,Electronics,2,49.90,5.00,Porto Alegre,RS,Credit Card,Paid
+1051,Yuri Pinto,yuri.pinto@email.com,21/09/2026,Wireless Keyboard,Electronics,1,149.90,10.00,São Paulo,SP,Debit Card,Paid
+1052,Zeleote Lopes,zeleote.lopes@email.com,22/09/2026,Office Chair,Office Supplies,1,549.90,50.00,Rio de Janeiro,RJ,Credit Card,Paid
+1053,Arthur Hyde,arthur.hyde@email.com,23/09/2026,Water Bottle,Sports,5,24.90,0.00,Curitiba,PR,PIX,Paid
+1054,Brenda Torres,brenda.torres@email.com,24/09/2026,Desk Lamp,Home & Living,2,79.90,5.00,Brasília,DF,Credit Card,Paid
+1055,César Cardoso,cesar.cardoso@email.com,25/09/2026,Webcam HD,Electronics,1,129.90,0.00,Recife,PE,Debit Card,Paid
+1056,Diana Freitas,diana.freitas@email.com,26/09/2026,Monitor Arm,Office Supplies,1,159.90,15.00,Salvador,BA,Credit Card,Paid
+1057,Eduardo Dias,eduardo.dias@email.com,27/09/2026,Resistance Bands,Sports,2,49.90,5.00,Fortaleza,CE,PIX,Paid
+1058,Fabiana Moura,fabiana.moura@email.com,28/09/2026,USB Hub,Electronics,3,29.90,0.00,Belo Horizonte,MG,Credit Card,Paid
+1059,George Vinícius,george.vinicius@email.com,29/09/2026,Desk Pad,Office Supplies,2,59.90,0.00,Porto Alegre,RS,Debit Card,Paid
+1060,Heloísa Azevedo,heloisa.azevedo@email.com,30/09/2026,Smartwatch,Electronics,1,399.90,30.00,São Paulo,SP,Credit Card,Paid
+1061,Ivan Fernandes,ivan.fernandes@email.com,01/10/2026,Foam Roller,Sports,2,69.90,0.00,Rio de Janeiro,RJ,PIX,Paid
+1062,Jéssica Gomes,jessica.gomes@email.com,02/10/2026,Cable Management,Office Supplies,5,14.90,0.00,Curitiba,PR,Credit Card,Paid
+1063,Kaique Borges,kaique.borges@email.com,03/10/2026,Wireless Charger,Electronics,2,59.90,5.00,Brasília,DF,Debit Card,Paid
+1064,Lúcia Castro,lucia.castro@email.com,04/10/2026,Adjustable Dumbbell,Sports,1,179.90,10.00,Recife,PE,Credit Card,Paid
+1065,Mateus Duarte,mateus.duarte@email.com,05/10/2026,Monitor Light,Office Supplies,1,139.90,0.00,Salvador,BA,PIX,Paid
+1066,Norma Pereira,norma.pereira@email.com,06/10/2026,Bluetooth Mouse,Electronics,3,39.90,0.00,Fortaleza,CE,Credit Card,Paid
+1067,Odair Lima,odair.lima@email.com,07/10/2026,Standing Desk,Office Supplies,1,899.90,100.00,Belo Horizonte,MG,Debit Card,Paid
+1068,Priscila Melo,priscila.melo@email.com,08/10/2026,Jump Rope,Sports,4,29.90,0.00,Porto Alegre,RS,Credit Card,Paid
+1069,Queiroz Ribeiro,queiroz.ribeiro@email.com,09/10/2026,USB Fan,Home & Living,2,24.90,0.00,São Paulo,SP,PIX,Paid
+1070,Rita Cardoso,rita.cardoso@email.com,10/10/2026,Laptop Sleeve,Electronics,2,49.90,5.00,Rio de Janeiro,RJ,Credit Card,Paid
+1071,Samuel Pinto,samuel.pinto@email.com,11/10/2026,Wireless Keyboard,Electronics,1,149.90,10.00,Curitiba,PR,Debit Card,Paid
+1072,Tânia Lopes,tania.lopes@email.com,12/10/2026,Office Chair,Office Supplies,1,549.90,50.00,Brasília,DF,Credit Card,Paid
+1073,Ulisses Hyde,ulisses.hyde@email.com,13/10/2026,Water Bottle,Sports,5,24.90,0.00,Recife,PE,PIX,Paid
+1074,Viviane Torres,viviane.torres@email.com,14/10/2026,Desk Lamp,Home & Living,2,79.90,5.00,Salvador,BA,Credit Card,Paid
+1075,Wilson Cardoso,wilson.cardoso@email.com,15/10/2026,Webcam HD,Electronics,1,129.90,0.00,Fortaleza,CE,Debit Card,Paid
+1076,Ximena Freitas,ximena.freitas@email.com,16/10/2026,Monitor Arm,Office Supplies,1,159.90,15.00,Belo Horizonte,MG,Credit Card,Paid
+1077,Yago Dias,yago.dias@email.com,17/10/2026,Resistance Bands,Sports,2,49.90,5.00,Porto Alegre,RS,PIX,Paid
+1078,Zoé Moura,zoe.moura@email.com,18/10/2026,USB Hub,Electronics,3,29.90,0.00,São Paulo,SP,Credit Card,Paid
+1079,Adriano Vinícius,adriano.vinicius@email.com,19/10/2026,Desk Pad,Office Supplies,2,59.90,0.00,Rio de Janeiro,RJ,Debit Card,Paid
+1080,Bruna Azevedo,bruna.azevedo@email.com,20/10/2026,Smartwatch,Electronics,1,399.90,30.00,Curitiba,PR,Credit Card,Paid
+1081,Caleb Fernandes,caleb.fernandes@email.com,21/10/2026,Foam Roller,Sports,2,69.90,0.00,Brasília,DF,PIX,Paid
+1082,Daniela Gomes,daniela.gomes2@email.com,22/10/2026,Cable Management,Office Supplies,5,14.90,0.00,Recife,PE,Credit Card,Paid
+1083,Evandro Borges,evandro.borges@email.com,23/10/2026,Wireless Charger,Electronics,2,59.90,5.00,Salvador,BA,Debit Card,Paid
+1084,Fátima Castro,fatima.castro@email.com,24/10/2026,Adjustable Dumbbell,Sports,1,179.90,10.00,Fortaleza,CE,Credit Card,Paid
+1085,Gilberto Duarte,gilberto.duarte@email.com,25/10/2026,Monitor Light,Office Supplies,1,139.90,0.00,Belo Horizonte,MG,PIX,Paid
+1086,Hortência Pereira,hortencia.pereira@email.com,26/10/2026,Bluetooth Mouse,Electronics,3,39.90,0.00,Porto Alegre,RS,Credit Card,Paid
+1087,Ismael Lima,ismael.lima@email.com,27/10/2026,Standing Desk,Office Supplies,1,899.90,100.00,São Paulo,SP,Debit Card,Paid
+1088,Jocelina Melo,jocelina.melo@email.com,28/10/2026,Jump Rope,Sports,4,29.90,0.00,Rio de Janeiro,RJ,Credit Card,Paid
+1089,Kleber Ribeiro,kleber.ribeiro@email.com,29/10/2026,USB Fan,Home & Living,2,24.90,0.00,Curitiba,PR,PIX,Paid
+1090,Liliane Cardoso,liliane.cardoso@email.com,30/10/2026,Laptop Sleeve,Electronics,2,49.90,5.00,Brasília,DF,Credit Card,Paid
+1091,Maurício Pinto,mauricio.pinto@email.com,31/10/2026,Wireless Keyboard,Electronics,1,149.90,10.00,Recife,PE,Debit Card,Paid
+1092,Nádia Lopes,nadia.lopes@email.com,01/11/2026,Office Chair,Office Supplies,1,549.90,50.00,Salvador,BA,Credit Card,Paid
+1093,Omar Hyde,omar.hyde@email.com,02/11/2026,Water Bottle,Sports,5,24.90,0.00,Fortaleza,CE,PIX,Paid
+1094,Paula Torres,paula.torres@email.com,03/11/2026,Desk Lamp,Home & Living,2,79.90,5.00,Belo Horizonte,MG,Credit Card,Paid
+1095,Quirino Cardoso,quirino.cardoso@email.com,04/11/2026,Webcam HD,Electronics,1,129.90,0.00,Porto Alegre,RS,Debit Card,Paid
+1096,Raquel Freitas,raquel.freitas@email.com,05/11/2026,Monitor Arm,Office Supplies,1,159.90,15.00,São Paulo,SP,Credit Card,Paid
+1097,Sérgio Dias,sergio.dias@email.com,06/11/2026,Resistance Bands,Sports,2,49.90,5.00,Rio de Janeiro,RJ,PIX,Paid
+1098,Teresa Moura,teresa.moura@email.com,07/11/2026,USB Hub,Electronics,3,29.90,0.00,Curitiba,PR,Credit Card,Paid
+1099,Ubiratan Vinícius,ubiratan.vinicius@email.com,08/11/2026,Desk Pad,Office Supplies,2,59.90,0.00,Brasília,DF,Debit Card,Paid
+1100,Vanessa Azevedo,vanessa.azevedo@email.com,09/11/2026,Smartwatch,Electronics,1,399.90,30.00,Recife,PE,Credit Card,Paid
+1101,Willian Fernandes,willian.fernandes@email.com,10/11/2026,Foam Roller,Sports,2,69.90,0.00,Salvador,BA,PIX,Paid
+1102,Ximena Gomes,ximena.gomes@email.com,11/11/2026,Cable Management,Office Supplies,5,14.90,0.00,Fortaleza,CE,Credit Card,Paid
+1103,Yuri Borges,yuri.borges@email.com,12/11/2026,Wireless Charger,Electronics,2,59.90,5.00,Belo Horizonte,MG,Debit Card,Paid
+1104,Zeleote Castro,zeleote.castro@email.com,13/11/2026,Adjustable Dumbbell,Sports,1,179.90,10.00,Porto Alegre,RS,Credit Card,Paid
+1105,André Duarte,andre.duarte@email.com,14/11/2026,Monitor Light,Office Supplies,1,139.90,0.00,São Paulo,SP,PIX,Paid
+1106,Bianca Pereira,bianca.pereira@email.com,15/11/2026,Bluetooth Mouse,Electronics,3,39.90,0.00,Rio de Janeiro,RJ,Credit Card,Paid
+1107,Caio Lima,caio.lima@email.com,16/11/2026,Standing Desk,Office Supplies,1,899.90,100.00,Curitiba,PR,Debit Card,Paid
+1108,Daniela Melo,daniela.melo@email.com,17/11/2026,Jump Rope,Sports,4,29.90,0.00,Brasília,DF,Credit Card,Paid
+1109,Eduardo Ribeiro,eduardo.ribeiro@email.com,18/11/2026,USB Fan,Home & Living,2,24.90,0.00,Recife,PE,PIX,Paid
+1110,Fernanda Cardoso,fernanda.cardoso@email.com,19/11/2026,Laptop Sleeve,Electronics,2,49.90,5.00,Salvador,BA,Credit Card,Paid
+1111,Gustavo Pinto,gustavo.pinto@email.com,20/11/2026,Wireless Keyboard,Electronics,1,149.90,10.00,Fortaleza,CE,Debit Card,Paid
+1112,Helena Lopes,helena.lopes@email.com,21/11/2026,Office Chair,Office Supplies,1,549.90,50.00,Belo Horizonte,MG,Credit Card,Paid
+1113,Igor Hyde,igor.hyde@email.com,22/11/2026,Water Bottle,Sports,5,24.90,0.00,Porto Alegre,RS,PIX,Paid
+1114,Juliana Torres,juliana.torres@email.com,23/11/2026,Desk Lamp,Home & Living,2,79.90,5.00,São Paulo,SP,Credit Card,Paid
+1115,Kevin Cardoso,kevin.cardoso@email.com,24/11/2026,Webcam HD,Electronics,1,129.90,0.00,Rio de Janeiro,RJ,Debit Card,Paid
+1116,Larissa Freitas,larissa.freitas@email.com,25/11/2026,Monitor Arm,Office Supplies,1,159.90,15.00,Curitiba,PR,Credit Card,Paid
+1117,Marcos Dias,marcos.dias@email.com,26/11/2026,Resistance Bands,Sports,2,49.90,5.00,Brasília,DF,PIX,Paid
+1118,Natalia Moura,natalia.moura@email.com,27/11/2026,USB Hub,Electronics,3,29.90,0.00,Recife,PE,Credit Card,Paid
+1119,Oscar Vinícius,oscar.vinicius@email.com,28/11/2026,Desk Pad,Office Supplies,2,59.90,0.00,Salvador,BA,Debit Card,Paid
+1120,Patrícia Azevedo,patricia.azevedo@email.com,29/11/2026,Smartwatch,Electronics,1,399.90,30.00,Fortaleza,CE,Credit Card,Paid
+1121,Quinto Fernandes,quinto.fernandes@email.com,30/11/2026,Foam Roller,Sports,2,69.90,0.00,Belo Horizonte,MG,PIX,Paid
+1122,Renata Gomes,renata.gomes@email.com,01/12/2026,Cable Management,Office Supplies,5,14.90,0.00,Porto Alegre,RS,Credit Card,Paid
+1123,Sandro Borges,sandro.borges@email.com,02/12/2026,Wireless Charger,Electronics,2,59.90,5.00,São Paulo,SP,Debit Card,Paid
+1124,Teresa Castro,teresa.castro@email.com,03/12/2026,Adjustable Dumbbell,Sports,1,179.90,10.00,Rio de Janeiro,RJ,Credit Card,Paid
+1125,Ubirajara Duarte,ubirajara.duarte@email.com,04/12/2026,Monitor Light,Office Supplies,1,139.90,0.00,Curitiba,PR,PIX,Paid
+1126,Verônica Pereira,veronica.pereira@email.com,05/12/2026,Bluetooth Mouse,Electronics,3,39.90,0.00,Brasília,DF,Credit Card,Paid
+1127,Wagner Lima,wagner.lima@email.com,06/12/2026,Standing Desk,Office Supplies,1,899.90,100.00,Recife,PE,Debit Card,Paid
+1128,Ximena Melo,ximena.melo@email.com,07/12/2026,Jump Rope,Sports,4,29.90,0.00,Salvador,BA,Credit Card,Paid
+1129,Yuri Ribeiro,yuri.ribeiro@email.com,08/12/2026,USB Fan,Home & Living,2,24.90,0.00,Fortaleza,CE,PIX,Paid
+1130,Zoé Cardoso,zoe.cardoso@email.com,09/12/2026,Laptop Sleeve,Electronics,2,49.90,5.00,Belo Horizonte,MG,Credit Card,Paid
+1131,Adriano Pinto,adriano.pinto@email.com,10/12/2026,Wireless Keyboard,Electronics,1,149.90,10.00,Porto Alegre,RS,Debit Card,Paid
+1132,Bruna Lopes,bruna.lopes@email.com,11/12/2026,Office Chair,Office Supplies,1,549.90,50.00,São Paulo,SP,Credit Card,Paid
+1133,Caleb Hyde,caleb.hyde@email.com,12/12/2026,Water Bottle,Sports,5,24.90,0.00,Rio de Janeiro,RJ,PIX,Paid
+1134,Daniela Torres,daniela.torres@email.com,13/12/2026,Desk Lamp,Home & Living,2,79.90,5.00,Curitiba,PR,Credit Card,Paid
+1135,Evandro Cardoso,evandro.cardoso@email.com,14/12/2026,Webcam HD,Electronics,1,129.90,0.00,Brasília,DF,Debit Card,Paid
+1136,Fátima Freitas,fatima.freitas@email.com,15/12/2026,Monitor Arm,Office Supplies,1,159.90,15.00,Recife,PE,Credit Card,Paid
+1137,Gilberto Dias,gilberto.dias@email.com,16/12/2026,Resistance Bands,Sports,2,49.90,5.00,Salvador,BA,PIX,Paid
+1138,Hortência Moura,hortencia.moura@email.com,17/12/2026,USB Hub,Electronics,3,29.90,0.00,Fortaleza,CE,Credit Card,Paid
+1139,Ismael Vinícius,ismael.vinicius@email.com,18/12/2026,Desk Pad,Office Supplies,2,59.90,0.00,Belo Horizonte,MG,Debit Card,Paid
+1140,Jocelina Azevedo,jocelina.azevedo@email.com,19/12/2026,Smartwatch,Electronics,1,399.90,30.00,Porto Alegre,RS,Credit Card,Paid
+1141,Kleber Fernandes,kleber.fernandes@email.com,20/12/2026,Foam Roller,Sports,2,69.90,0.00,São Paulo,SP,PIX,Paid
+1142,Liliane Gomes,liliane.gomes@email.com,21/12/2026,Cable Management,Office Supplies,5,14.90,0.00,Rio de Janeiro,RJ,Credit Card,Paid
+1143,Maurício Borges,mauricio.borges@email.com,22/12/2026,Wireless Charger,Electronics,2,59.90,5.00,Curitiba,PR,Debit Card,Paid
+1144,Nádia Castro,nadia.castro@email.com,23/12/2026,Adjustable Dumbbell,Sports,1,179.90,10.00,Brasília,DF,Credit Card,Paid
+1145,Omar Duarte,omar.duarte@email.com,24/12/2026,Monitor Light,Office Supplies,1,139.90,0.00,Recife,PE,PIX,Paid
+1146,Paula Pereira,paula.pereira@email.com,25/12/2026,Bluetooth Mouse,Electronics,3,39.90,0.00,Salvador,BA,Credit Card,Paid
+1147,Quirino Lima,quirino.lima@email.com,26/12/2026,Standing Desk,Office Supplies,1,899.90,100.00,Fortaleza,CE,Debit Card,Paid
+1148,Raquel Melo,raquel.melo@email.com,27/12/2026,Jump Rope,Sports,4,29.90,0.00,Belo Horizonte,MG,Credit Card,Paid
+1149,Sérgio Ribeiro,sergio.ribeiro@email.com,28/12/2026,USB Fan,Home & Living,2,24.90,0.00,Porto Alegre,RS,PIX,Paid
+1150,Teresa Cardoso,teresa.cardoso@email.com,29/12/2026,Laptop Sleeve,Electronics,2,49.90,5.00,São Paulo,SP,Credit Card,Paid
+1151,Ubiratan Pinto,ubiratan.pinto@email.com,30/12/2026,Wireless Keyboard,Electronics,1,149.90,10.00,Rio de Janeiro,RJ,Debit Card,Paid
+1152,Vanessa Lopes,vanessa.lopes@email.com,31/12/2026,Office Chair,Office Supplies,1,549.90,50.00,Curitiba,PR,Credit Card,Paid
+1153,Willian Hyde,willian.hyde@email.com,01/01/2027,Water Bottle,Sports,5,24.90,0.00,Brasília,DF,PIX,Paid
+1154,Ximena Torres,ximena.torres@email.com,02/01/2027,Desk Lamp,Home & Living,2,79.90,5.00,Recife,PE,Credit Card,Paid
+1155,Yuri Cardoso,yuri.cardoso@email.com,03/01/2027,Webcam HD,Electronics,1,129.90,0.00,Salvador,BA,Debit Card,Paid
+1156,Zeleote Freitas,zeleote.freitas@email.com,04/01/2027,Monitor Arm,Office Supplies,1,159.90,15.00,Fortaleza,CE,Credit Card,Paid
+1157,André Dias,andre.dias@email.com,05/01/2027,Resistance Bands,Sports,2,49.90,5.00,Belo Horizonte,MG,PIX,Paid
+1158,Bianca Moura,bianca.moura@email.com,06/01/2027,USB Hub,Electronics,3,29.90,0.00,Porto Alegre,RS,Credit Card,Paid
+1159,Caio Vinícius,caio.vinicius@email.com,07/01/2027,Desk Pad,Office Supplies,2,59.90,0.00,São Paulo,SP,Debit Card,Paid
+1160,Daniela Azevedo,daniela.azevedo@email.com,08/01/2027,Smartwatch,Electronics,1,399.90,30.00,Rio de Janeiro,RJ,Credit Card,Paid
+1161,Eduardo Fernandes,eduardo.fernandes@email.com,09/01/2027,Foam Roller,Sports,2,69.90,0.00,Curitiba,PR,PIX,Paid
+1162,Fernanda Gomes,fernanda.gomes@email.com,10/01/2027,Cable Management,Office Supplies,5,14.90,0.00,Brasília,DF,Credit Card,Paid
+1163,Gustavo Borges,gustavo.borges@email.com,11/01/2027,Wireless Charger,Electronics,2,59.90,5.00,Recife,PE,Debit Card,Paid
+1164,Helena Castro,helena.castro@email.com,12/01/2027,Adjustable Dumbbell,Sports,1,179.90,10.00,Salvador,BA,Credit Card,Paid
+1165,Igor Duarte,igor.duarte@email.com,13/01/2027,Monitor Light,Office Supplies,1,139.90,0.00,Fortaleza,CE,PIX,Paid
+1166,Juliana Pereira,juliana.pereira@email.com,14/01/2027,Bluetooth Mouse,Electronics,3,39.90,0.00,Belo Horizonte,MG,Credit Card,Paid
+1167,Kevin Lima,kevin.lima@email.com,15/01/2027,Standing Desk,Office Supplies,1,899.90,100.00,Porto Alegre,RS,Debit Card,Paid
+1168,Larissa Melo,larissa.melo@email.com,16/01/2027,Jump Rope,Sports,4,29.90,0.00,São Paulo,SP,Credit Card,Paid
+1169,Marcos Ribeiro,marcos.ribeiro@email.com,17/01/2027,USB Fan,Home & Living,2,24.90,0.00,Rio de Janeiro,RJ,PIX,Paid
+1170,Natalia Cardoso,natalia.cardoso@email.com,18/01/2027,Laptop Sleeve,Electronics,2,49.90,5.00,Curitiba,PR,Credit Card,Paid
+1171,Oscar Pinto,oscar.pinto@email.com,19/01/2027,Wireless Keyboard,Electronics,1,149.90,10.00,Brasília,DF,Debit Card,Paid
+1172,Patrícia Lopes,patricia.lopes@email.com,20/01/2027,Office Chair,Office Supplies,1,549.90,50.00,Recife,PE,Credit Card,Paid
+1173,Quinto Hyde,quinto.hyde@email.com,21/01/2027,Water Bottle,Sports,5,24.90,0.00,Salvador,BA,PIX,Paid
+1174,Renata Torres,renata.torres@email.com,22/01/2027,Desk Lamp,Home & Living,2,79.90,5.00,Fortaleza,CE,Credit Card,Paid
+1175,Sandro Cardoso,sandro.cardoso@email.com,23/01/2027,Webcam HD,Electronics,1,129.90,0.00,Belo Horizonte,MG,Debit Card,Paid
+1176,Teresa Freitas,teresa.freitas@email.com,24/01/2027,Monitor Arm,Office Supplies,1,159.90,15.00,Porto Alegre,RS,Credit Card,Paid
+1177,Ubirajara Dias,ubirajara.dias@email.com,25/01/2027,Resistance Bands,Sports,2,49.90,5.00,São Paulo,SP,PIX,Paid
+1178,Verônica Moura,veronica.moura@email.com,26/01/2027,USB Hub,Electronics,3,29.90,0.00,Rio de Janeiro,RJ,Credit Card,Paid
+1179,Wagner Vinícius,wagner.vinicius@email.com,27/01/2027,Desk Pad,Office Supplies,2,59.90,0.00,Curitiba,PR,Debit Card,Paid
+1180,Ximena Azevedo,ximena.azevedo@email.com,28/01/2027,Smartwatch,Electronics,1,399.90,30.00,Brasília,DF,Credit Card,Paid
+1181,Yuri Fernandes,yuri.fernandes@email.com,29/01/2027,Foam Roller,Sports,2,69.90,0.00,Recife,PE,PIX,Paid
+1182,Zoé Gomes,zoe.gomes@email.com,30/01/2027,Cable Management,Office Supplies,5,14.90,0.00,Salvador,BA,Credit Card,Paid
+1183,Adriano Borges,adriano.borges@email.com,31/01/2027,Wireless Charger,Electronics,2,59.90,5.00,Fortaleza,CE,Debit Card,Paid
+1184,Bruna Castro,bruna.castro@email.com,01/02/2027,Adjustable Dumbbell,Sports,1,179.90,10.00,Belo Horizonte,MG,Credit Card,Paid
+1185,Caleb Duarte,caleb.duarte@email.com,02/02/2027,Monitor Light,Office Supplies,1,139.90,0.00,Porto Alegre,RS,PIX,Paid
+1186,Daniela Pereira,daniela.pereira@email.com,03/02/2027,Bluetooth Mouse,Electronics,3,39.90,0.00,São Paulo,SP,Credit Card,Paid
+1187,Evandro Lima,evandro.lima@email.com,04/02/2027,Standing Desk,Office Supplies,1,899.90,100.00,Rio de Janeiro,RJ,Debit Card,Paid
+1188,Fátima Melo,fatima.melo@email.com,05/02/2027,Jump Rope,Sports,4,29.90,0.00,Curitiba,PR,Credit Card,Paid
+1189,Gilberto Ribeiro,gilberto.ribeiro@email.com,06/02/2027,USB Fan,Home & Living,2,24.90,0.00,Brasília,DF,PIX,Paid
+1190,Hortência Cardoso,hortencia.cardoso@email.com,07/02/2027,Laptop Sleeve,Electronics,2,49.90,5.00,Recife,PE,Credit Card,Paid
+1191,Ismael Pinto,ismael.pinto@email.com,08/02/2027,Wireless Keyboard,Electronics,1,149.90,10.00,Salvador,BA,Debit Card,Paid
+1192,Jocelina Lopes,jocelina.lopes@email.com,09/02/2027,Office Chair,Office Supplies,1,549.90,50.00,Fortaleza,CE,Credit Card,Paid
+1193,Kleber Hyde,kleber.hyde@email.com,10/02/2027,Water Bottle,Sports,5,24.90,0.00,Belo Horizonte,MG,PIX,Paid
+1194,Liliane Torres,liliane.torres@email.com,11/02/2027,Desk Lamp,Home & Living,2,79.90,5.00,Porto Alegre,RS,Credit Card,Paid
+1195,Maurício Cardoso,mauricio.cardoso@email.com,12/02/2027,Webcam HD,Electronics,1,129.90,0.00,São Paulo,SP,Debit Card,Paid
+1196,Nádia Freitas,nadia.freitas@email.com,13/02/2027,Monitor Arm,Office Supplies,1,159.90,15.00,Rio de Janeiro,RJ,Credit Card,Paid
+1197,Omar Dias,omar.dias@email.com,14/02/2027,Resistance Bands,Sports,2,49.90,5.00,Curitiba,PR,PIX,Paid
+1198,Paula Moura,paula.moura@email.com,15/02/2027,USB Hub,Electronics,3,29.90,0.00,Brasília,DF,Credit Card,Paid
+1199,Quirino Vinícius,quirino.vinicius@email.com,16/02/2027,Desk Pad,Office Supplies,2,59.90,0.00,Recife,PE,Debit Card,Paid
+1200,Raquel Azevedo,raquel.azevedo@email.com,17/02/2027,Smartwatch,Electronics,1,399.90,30.00,Salvador,BA,Credit Card,Paid
