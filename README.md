@@ -26,10 +26,12 @@ This project demonstrates end-to-end data cleaning and validation using PostgreS
 - Quantity and unit_price range checks.
 
 ## Results
-- Raw rows vs clean rows (see `06_before_after_summary.sql`).
-- Duplicates removed.
-- Rows removed due to invalid quantity/price.
-- Final category and status distributions.
+- Rows: raw = 201, clean = 200, 1 row removed (duplicate `order_id` 1001).
+- Nulls: only `email` with 1 null (before and after).
+- Categories: Electronics 71, Office Supplies 59, Sports 49, Home & Living 21.
+- Status: Paid 197, Pending 3, Cancelled 0.
+- Ranges: quantity 1–6, unit_price 12.50–899.90 (no negatives/zero).
+- Invalid emails: none.
 
 ## How to Use
 1. Create a PostgreSQL database (e.g., `cleaning_validation`).
@@ -44,7 +46,7 @@ This project demonstrates end-to-end data cleaning and validation using PostgreS
 - `SQL/01_create_raw_table.sql`: creates the raw table.
 - `SQL/02_import_csv.sql`: imports CSV into raw table.
 - `SQL/03_create_clean_table.sql`: creates the cleaned table schema.
-- `SQL/04_cleaning_rules.sql`: applies cleaning transformations.
+- `SQL/04_cleaning_rules.sql`: applies cleaning transformations (includes deduplication).
 - `SQL/05_validation_checks.sql`: validation queries.
 - `SQL/06_before_after_summary.sql`: before/after summary.
 
