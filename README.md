@@ -62,6 +62,20 @@ One duplicate order record was removed, reducing the dataset from 201 to 200 row
 - `02_raw_vs_clean_comparison.png` — Before-and-after comparison of selected records.
 - `03_validation_summary.jpg` — Final SQL validation summary.
 
+## Screenshots
+
+### Raw Orders Before Cleaning
+
+![Raw orders before cleaning](01_raw_orders_before_cleaning.jpg)
+
+### Raw vs. Clean Comparison
+
+![Raw versus cleaned records](02_raw_vs_clean_comparison.jpg)
+
+### Final Validation Summary
+
+![Validation summary](03_validation_summary.jpg)
+
 ## Author
 
 Antonio Souza
