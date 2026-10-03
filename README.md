@@ -33,6 +33,15 @@ This project demonstrates end-to-end data cleaning and validation using PostgreS
 - Ranges: quantity 1–6, unit_price 12.50–899.90 (no negatives/zero).
 - Invalid emails: none.
 
+### Final Validation Summary
+
+| Table | Total Rows | Unique Order IDs | Emails Present | Emails Null |
+|---|---:|---:|---:|---:|
+| `raw_orders` | 201 | 200 | 200 | 1 |
+| `orders_clean` | 200 | 200 | 199 | 1 |
+
+One duplicate order record was removed, reducing the dataset from 201 to 200 rows. The cleaned table retained 200 unique order IDs and preserved the existing one missing email value without introducing additional nulls.
+
 ## How to Use
 1. Create a PostgreSQL database (e.g., `cleaning_validation`).
 2. Run `01_create_raw_table.sql`.
@@ -49,6 +58,9 @@ This project demonstrates end-to-end data cleaning and validation using PostgreS
 - `SQL/04_cleaning_rules.sql`: applies cleaning transformations (includes deduplication).
 - `SQL/05_validation_checks.sql`: validation queries.
 - `SQL/06_before_after_summary.sql`: before/after summary.
+- `01_raw_orders_before_cleaning.png` — Raw orders dataset before cleaning.
+- `02_raw_vs_clean_comparison.png` — Before-and-after comparison of selected records.
+- `03_validation_summary.jpg` — Final SQL validation summary.
 
 ## Author
 
